@@ -26,7 +26,7 @@ header {
 	border-bottom: 1px solid #ffffff;
 }
 .logo {
-	color: #000000;
+	color: #00E599;
 	font-weight: bold;
 	text-align: left;
 	width: 30%;
@@ -104,7 +104,7 @@ ul li:hover a {
 	color: #000000;
 	margin-top: 4px;
 	font-weight: lighter;
-	text-transform: lowercase;
+	text-transform: uppercase;
 	font-size: 150%;
 	letter-spacing: 1px;
 }
